@@ -1,3 +1,6 @@
+#How to Implement 
+just open file in google colab and import dataset in it all guide and details of project is below
+
 # ML-Project-k-Nearest-Neighbors-from-Scratch-Custom-Dataset-
 A pure Python and NumPy implementation of the k-Nearest Neighbors algorithm. Covers supervised (classification, regression) and unsupervised (k-Means) learning. Using “Your Data.csv,” it demonstrates preprocessing, distance metrics, model evaluation, and visualization — connecting machine learning theory with practical, hands-on understanding.
 
